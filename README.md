@@ -5,6 +5,6 @@ Example was inspired by this video: [https://www.youtube.com/watch?v=BcJosevS8o4
 
    
 In this projet you have:
-- algorithm with CDC, SCD2 and incremental loading
+- algorithm with SCD2 and incremental loading
 - requirements.txt with needed libraries to import
 - unit tests in pytest
